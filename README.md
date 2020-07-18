@@ -1,4 +1,4 @@
-### Here is what I am Working On! 👋
+# A little bit about myself! 👋
 
 - 🌱 I’m currently learning Python and Django 
 - 👯 I’m looking to collaborate on Python
